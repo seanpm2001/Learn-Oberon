@@ -32,7 +32,7 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# Oberon source file
+# Oberon source file (in 2022, the GitHub Linguist did not support Oberon. In 2024, it does, so I am making a push here so that it will recognize)
 *.obn linguist-detectable=true
 *.obn linguist-documentation=false
 *.obn linguist-language=Oberon
@@ -165,10 +165,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 5 (2022, Thursday, September 22nd at 4:00 pm PST)
-# Line count (including blank lines and compiler line): 175
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 6 (2024, Friday, September 6th at 4:30 pm PST)
+# Line count (including blank lines and compiler line): 178
+
 # End of script
